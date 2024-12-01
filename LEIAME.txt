@@ -1,0 +1,8 @@
+Projeto para um sistema de eventos
+
+- Lista de requisitos funcionais e não funcionais. ✅
+- Diagrama de caso de uso. ✅
+- Fluxo de processos para registro de participantes. ✅
+- Prioridade dos requisitos (MoSCoW).
+- Wireframe da interface.
+- Perguntas para stakeholders.
